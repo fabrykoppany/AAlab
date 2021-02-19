@@ -6,6 +6,7 @@ int main() {
     if (x<9){
         x++;
     }
+    x=1;
     else{
         printf(_Format: "%d", x);
     }
